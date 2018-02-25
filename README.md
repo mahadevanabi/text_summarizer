@@ -1,12 +1,16 @@
 # Summarization_finalyr
 GECBH
+-- Done by
+- Sameer A
+- Aravind A
+- Adil K
+- P Mahadevan
 
 
 
-
-download following python packages
- - --------------NLTK
- ------------- KIVY
- -------------- networkx
+# Download following python packages
+ - -------------NLTK
+ - -------------KIVY
+ - -------------Networkx
   
 run test.py
